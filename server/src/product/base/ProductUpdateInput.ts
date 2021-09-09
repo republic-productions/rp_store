@@ -1,0 +1,2 @@
+class ProductUpdateInput {}
+export { ProductUpdateInput };

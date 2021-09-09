@@ -1,0 +1,2 @@
+class AddressUpdateInput {}
+export { AddressUpdateInput };

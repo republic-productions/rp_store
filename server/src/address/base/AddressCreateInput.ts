@@ -1,0 +1,2 @@
+class AddressCreateInput {}
+export { AddressCreateInput };

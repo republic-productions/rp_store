@@ -1,0 +1,2 @@
+class SupportTicketCreateInput {}
+export { SupportTicketCreateInput };
