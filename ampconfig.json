@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.9.0",
+  "appInfo": {
+    "name": "Sample app-1",
+    "description": "Sample application for e-commerce",
+    "version": "mj4ugvx9",
+    "id": "cktcrqn5j7590621bs61coeijkk",
+    "url": "https://app.amplication.com/cktcrqn5j7590621bs61coeijkk",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "rp_mongodb_dev",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cktcrqn5j7590621bs61coeijkk"
+    }
+  }
+}
