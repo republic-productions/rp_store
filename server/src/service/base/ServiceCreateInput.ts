@@ -1,0 +1,2 @@
+class ServiceCreateInput {}
+export { ServiceCreateInput };

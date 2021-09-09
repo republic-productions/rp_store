@@ -1,0 +1,2 @@
+class SupplierCreateInput {}
+export { SupplierCreateInput };

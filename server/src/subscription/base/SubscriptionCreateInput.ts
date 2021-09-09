@@ -1,0 +1,2 @@
+class SubscriptionCreateInput {}
+export { SubscriptionCreateInput };

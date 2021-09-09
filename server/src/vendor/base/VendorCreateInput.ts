@@ -1,0 +1,2 @@
+class VendorCreateInput {}
+export { VendorCreateInput };

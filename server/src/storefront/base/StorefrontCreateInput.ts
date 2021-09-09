@@ -1,0 +1,2 @@
+class StorefrontCreateInput {}
+export { StorefrontCreateInput };

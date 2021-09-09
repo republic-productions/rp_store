@@ -1,0 +1,2 @@
+class BusinessCreateInput {}
+export { BusinessCreateInput };

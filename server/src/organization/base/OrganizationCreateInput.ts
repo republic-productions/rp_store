@@ -1,0 +1,2 @@
+class OrganizationCreateInput {}
+export { OrganizationCreateInput };

@@ -1,0 +1,2 @@
+class SupplierUpdateInput {}
+export { SupplierUpdateInput };

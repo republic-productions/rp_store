@@ -1,0 +1,2 @@
+class BusinessUpdateInput {}
+export { BusinessUpdateInput };
